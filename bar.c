@@ -1,3 +1,3 @@
 int cool(int a) {
-  return a + 42;
+  return a + 45;
 }
